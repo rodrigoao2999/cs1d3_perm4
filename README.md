@@ -14,5 +14,7 @@ Para este ejercicio en el codigo he utilizado las funciones que explicare a cont
 | Funciones | Explicacion |
 | ---------- | ------------ |
 
+| witness |  Con esta funcion  lo que haremos sera verificar que un numero pueda ser primo cuando lo evualemos con diversas condiciones. |
+| millerRabin | Lo que hace esta funcion es un test de witness en un numero S de bases para un numero N para asi poder comprobar si estos resultados son primos o no. |
 
 ### Generate-Prime
