@@ -12,7 +12,7 @@ El teorema establece algunas de las claves del algoritmo; siendo n el número qu
 Para este ejercicio en el codigo he utilizado las funciones que explicare a continuacion
 
 | Funciones | Explicacion |
-| *** | *** |
+| ---------- | ------------ |
 
 
 ### Generate-Prime
