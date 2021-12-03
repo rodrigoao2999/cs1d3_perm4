@@ -9,11 +9,10 @@ El teorema establece algunas de las claves del algoritmo; siendo n el número qu
 * Descomponer n−1 como m2k, para algún k≥1 y m impar.
 * Para un a∈(Z/nZ)∗ dado, comprobar si pertenece al conjunto B=a∈(Z/nZ)∗ : am=1∨am2i=−1 Ⅎi∈[0,k).
 
-Para este ejercicio en el codigo he utilizado las funciones que explicare a continuacion
+Para este ejercicio en el codigo he utilizado las funciones que explicare a continuacion que para mi son las mas importantes.
 
 | Funciones | Explicacion |
 | ---------- | ------------ |
-
 | witness |  Con esta funcion  lo que haremos sera verificar que un numero pueda ser primo cuando lo evualemos con diversas condiciones. |
 | millerRabin | Lo que hace esta funcion es un test de witness en un numero S de bases para un numero N para asi poder comprobar si estos resultados son primos o no. |
 
